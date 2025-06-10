@@ -1,5 +1,4 @@
 # Network Traffic Analysis Report
-==================================
 
 **Capture File:** `network_capture.pcap`  
 **Date of Analysis:** Monday, June 2  
